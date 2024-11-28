@@ -1,5 +1,6 @@
 1.Design Your Own Class! 🏗️
 
+
               class Project:
                 def __init__(self, name, description, deadline, team_members=None):
                             """
@@ -39,6 +40,7 @@
 
 
 2.Create a class representing anything you like (a Smartphone, Book, or even a Superhero!).
+
 
 
           class Superhero:
@@ -83,6 +85,8 @@
 
 
 3.Add attributes and methods to bring the class to life!
+
+
 
 
         class Superhero:
@@ -177,6 +181,7 @@
 4.Use constructors to initialize each object with unique values.
 
 
+
       class Superhero:
            def __init__(self, name, alias, superpower, strength_level, weakness):
         """
@@ -268,6 +273,7 @@
 
 
 5.Add an inheritance layer to explore polymorphism or encapsulation.
+
 
 
           class Hero:
